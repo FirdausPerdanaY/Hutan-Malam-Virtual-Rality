@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LevelCat.cs">
+    <Files>
+      <File FileName="Assets\Script\MenuControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EndSesion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PointGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LevelCat.cs" Line="40" Column="8" />
+      <File FileName="Assets\Script\Point.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\EventSystem\GvrPointerInputModule.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MapMovingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Compass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Walk.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

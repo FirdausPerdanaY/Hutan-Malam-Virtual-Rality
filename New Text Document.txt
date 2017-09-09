@@ -1,0 +1,15 @@
+susunan pembuatan
+
+- terrain
+- rumput terrain
+- pohon
+
+menu
+- camera (raycast)
+- menu kiri
+- menu kanan (code)
+- menu tengah 2
+- menu tingkat (kode)
+
+
+main

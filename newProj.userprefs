@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PauseGame.cs">
+    <Files>
+      <File FileName="Assets\Script\TimeDuration.cs" Line="42" Column="23" />
+      <File FileName="Assets\Script\EndSesion.cs" Line="48" Column="71" />
+      <File FileName="Assets\Script\MapEnabler.cs" Line="24" Column="26" />
+      <File FileName="Assets\Script\MenuControl.cs" Line="121" Column="1" />
+      <File FileName="Assets\Script\HistoryUse.cs" Line="11" Column="27" />
+      <File FileName="Assets\Script\PauseGame.cs" Line="25" Column="31" />
+      <File FileName="Assets\Script\OpenPause.cs" Line="18" Column="3" />
+      <File FileName="Assets\Script\LevelCat.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
